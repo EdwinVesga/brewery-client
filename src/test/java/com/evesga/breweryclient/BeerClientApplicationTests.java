@@ -1,4 +1,4 @@
-package com.evesga.beerclient;
+package com.evesga.breweryclient;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

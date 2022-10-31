@@ -1,6 +1,5 @@
-package com.evesga.beerclient.web.client;
+package com.evesga.breweryclient.web.client;
 
-import com.evesga.breweryclient.web.client.CustomerClient;
 import com.evesga.breweryclient.web.model.CustomerDto;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
